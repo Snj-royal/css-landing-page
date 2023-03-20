@@ -1,0 +1,100 @@
+body{
+    /* display: flex; */
+    background-image: url('uriel-soberanes-MxVkWPiJALs-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#image{
+    display:inline-block;
+    background-image: url('fotor_2023-3-18_12_2_5.png');
+    width: 13vw;
+    height: 19vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+#intro{
+    /* display: inline-block;
+    background-color: black;
+    width: 2vw;
+    height: 19vh;
+    color: white; */
+    display: inline-block;
+    background-color: rgb(147, 237, 244);
+    width: 28vw;
+    height: 7vh;
+    color: black;
+    margin-top: 9vh;
+    margin-left: 50vh;
+}
+#head-el{
+    background-color: black;
+    display: inline-block;
+    margin-top: 9vh;
+    color: white;
+    height: 7vh;
+    width: 15vw;
+    margin-left: -1vw;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+#sign-el{
+    display: inline-block;
+    margin-top:9vh ;
+    margin-left: 2vw;
+}
+#sign-in{
+    margin-top:1vh;
+    font-size: medium;
+    border-radius: 6px;
+    padding: 2px;
+    font-size: 15px;
+    margin-left: 3vw;
+    background-color:rgb(244, 230, 100);
+}
+/* #log-in{
+    margin-top: 1vh;
+    font-size: medium;
+} */
+#content-el{
+    display:inline-block;
+    /* background-image: url('kelly-sikkema-dgna2SRwsSw-unsplash.jpg'); */
+    width: 30vw;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 5vh;
+    margin-left: 5vw;
+}
+#top{
+    display: flex;
+}
+/* #content{
+    color: white;
+    margin-left: 10vw;
+    margin-top: 8vh;
+} */
+#explain{
+    width: 40vw;
+    height: 50vh;
+    background-color: aquamarine;
+    font-size: large;
+    border-radius: 50%;
+}
+#queries{
+    margin-top: 40vh;
+    color: white;
+    height: 10vh;
+    width: 50vw;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#follow{
+    width: 22vw;
+    height:8vh;
+    background-image: url('images.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 2vh;
+}
